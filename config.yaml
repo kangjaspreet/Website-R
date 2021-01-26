@@ -10,7 +10,7 @@ pygmentsCodeFencesGuessSyntax: yes
 disqusShortname: yourdiscussshortname
 params:
   author: Jaspo
-  avatarURL: https://images.app.goo.gl/rWqhVJrTiixNqcj9A
+  avatarURL: 'images/avatar.jpg'
   cloudflare:
     token: token
   colorScheme: auto
